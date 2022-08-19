@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dhemiebabs
-- 👀 I’m interested in Software Engineering and Artificial Intelligence
-- 🌱 I’m currently learning Software Engineering
+- 👀 I'm an energy enthusiat.
+- 👀 I’m interested in Machine Learning and Artificial Intelligence with key contribution to the energy industry.
+- 🌱 I’m currently learning Machine Learning and Artificial.
 - 💞️ I’m looking to collaborate on project that will be integral to my skill development as a Software Engineer and an Artificial Intelligence Expert 
 
 <!---
